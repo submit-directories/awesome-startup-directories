@@ -6,6 +6,7 @@
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](LICENSE)
+[![Directories](https://img.shields.io/badge/directories-208-orange.svg)](#contents)
 [![Last verified](https://img.shields.io/badge/links%20verified-Oct%202026-blue.svg)](#how-this-list-is-maintained)
 
 </div>
@@ -29,6 +30,7 @@
 - [Marketplaces & App Stores](#marketplaces--app-stores)
 - [Design & Landing Page Galleries](#design--landing-page-galleries)
 - [Regional & Startup Media](#regional--startup-media)
+- [Web Directories & Search Engines](#web-directories--search-engines)
 - [Directory Lists & Submission Services](#directory-lists--submission-services)
 - [How this list is maintained](#how-this-list-is-maintained)
 - [Contributing](#contributing)
@@ -41,7 +43,7 @@
 3. **Space your launches out.** One meaningful launch per week is easier to support (replying to comments, fixing bugs) than ten in a day.
 4. **Read each site's rules.** Many free tiers require a reciprocal badge/backlink or have a waiting queue; paid tiers usually skip the line.
 
-**Column guide:** *Pricing* is `Free`, `Freemium` (free tier + paid upgrades), or `Paid` — only when confirmed on the site's own submit/pricing page. A blank cell means we haven't verified it yet. Prices, queue times, and "DR"/dofollow claims in *Notes* are **as stated by the site itself** in October 2026 and can change at any time — always check before you pay.
+**Column guide:** *Pricing* is `Free`, `Freemium` (free tier + paid upgrades), or `Paid` — only when confirmed on the site's own submit/pricing page. A value marked `*` (e.g. `Free*`) comes from the [SubmitSaaS](https://submitsaas.com) directory database rather than the site's own page; `Conditional free*` means SubmitSaaS lists it as free with conditions (often a reciprocal badge/backlink). A blank cell means we haven't verified it yet. Prices, queue times, and "DR"/dofollow claims in *Notes* are **as stated by the site itself**, or attributed to SubmitSaaS where marked "(per SubmitSaaS, Oct 2026)", as of October 2026 and can change at any time — always check before you pay.
 
 ## Launch Platforms
 
@@ -49,28 +51,62 @@ Daily/weekly launch boards where products compete for upvotes and homepage expos
 
 | Name | Description | Pricing | Notes |
 |------|-------------|---------|-------|
-| [Product Hunt](https://www.producthunt.com) | The best-known daily launch leaderboard for new tech products. | Free | Plan your launch day ahead; engage with every comment. |
-| [Hacker News – Show HN](https://news.ycombinator.com/show) | Y Combinator's community; "Show HN" is for things you've made that people can try. | Free | Read the [Show HN guidelines](https://news.ycombinator.com/showhn.html) first. |
-| [BetaList](https://betalist.com) | Discover and get early access to tomorrow's startups. | | Plan is chosen after submission; nothing is published until you confirm. |
-| [Uneed](https://www.uneed.best) | Daily product launches and curated tool directory. | Freemium | Free launches join a waiting line; site states a do-follow backlink for products reaching 20 upvotes. |
-| [Peerlist Launchpad](https://peerlist.io/launchpad) | Weekly launchpad inside Peerlist's professional network for builders. | | Requires a Peerlist profile. |
-| [Microlaunch](https://microlaunch.net) | Launch platform with month-long launch cycles, roasts, and deals. | | Paid launch packages listed from $39 (Oct 2026). |
-| [Fazier](https://fazier.com) | Daily launch platform for new products. | Freemium | Free tier requires a link/badge on your site; paid tiers from $29. |
-| [TinyLaunch](https://www.tinylaunch.com) | Product launch platform for indie makers. | Freemium | Free standard launch; dofollow backlink when you embed their badge; premium $39/launch. |
-| [DevHunt](https://devhunt.org) | Launch platform dedicated to developer tools. | | Dev tools only. |
-| [Launching Next](https://www.launchingnext.com) | Long-running showcase of new startups. | Freemium | Free submission; optional $99 upgrade for 1-business-day review. |
+| [Product Hunt](https://www.producthunt.com) | The best-known daily launch leaderboard for new tech products. | Free | Plan your launch day ahead; engage with every comment. DR 91, dofollow (per SubmitSaaS, Oct 2026). |
+| [Hacker News – Show HN](https://news.ycombinator.com/show) | Y Combinator's community; "Show HN" is for things you've made that people can try. | Free | Read the [Show HN guidelines](https://news.ycombinator.com/showhn.html) first. DR 91, nofollow (per SubmitSaaS, Oct 2026). |
+| [BetaList](https://betalist.com) | Discover and get early access to tomorrow's startups. | Free* | Plan is chosen after submission; nothing is published until you confirm. DR 77, dofollow (per SubmitSaaS, Oct 2026). |
+| [Uneed](https://www.uneed.best) | Daily product launches and curated tool directory. | Freemium | Free launches join a waiting line; site states a do-follow backlink for products reaching 20 upvotes. DR 76, dofollow (per SubmitSaaS, Oct 2026). |
+| [Peerlist Launchpad](https://peerlist.io/launchpad) | Weekly launchpad inside Peerlist's professional network for builders. | Free* | Requires a Peerlist profile. DR 77, dofollow (per SubmitSaaS, Oct 2026). |
+| [Microlaunch](https://microlaunch.net) | Launch platform with month-long launch cycles, roasts, and deals. | Paid* | Paid launch packages listed from $39 (Oct 2026). DR 64, dofollow (per SubmitSaaS, Oct 2026). |
+| [Fazier](https://fazier.com) | Daily launch platform for new products. | Freemium | Free tier requires a link/badge on your site; paid tiers from $29. DR 84, dofollow (per SubmitSaaS, Oct 2026). |
+| [TinyLaunch](https://www.tinylaunch.com) | Product launch platform for indie makers. | Freemium | Free standard launch; dofollow backlink when you embed their badge; premium $39/launch. DR 74, nofollow (per SubmitSaaS, Oct 2026); SubmitSaaS lists the link as nofollow — conflicts with the site's own claim. |
+| [DevHunt](https://devhunt.org) | Launch platform dedicated to developer tools. | Paid* | Dev tools only. DR 67, dofollow (per SubmitSaaS, Oct 2026). |
+| [Launching Next](https://www.launchingnext.com) | Long-running showcase of new startups. | Freemium | Free submission; optional $99 upgrade for 1-business-day review. DR 55, nofollow (per SubmitSaaS, Oct 2026). |
 | [Firsto](https://firsto.co) | Launch platform where "every launch gets seen". | Freemium | Free launches wait ~180 days; premium from $19.9 skips the queue. |
-| [Twelve Tools](https://twelve.tools) | Twelve new tools featured every day. | Freemium | Free listing requires a backlink; site states 1 dofollow link (free) or 3 (Pro, $36). |
-| [Open Launch](https://open-launch.com) | Open-source Product Hunt alternative; launches at 8:00 UTC. | Freemium | Free slots stated as booked into 2027; premium $12/launch. |
-| [LaunchIgniter](https://launchigniter.com) | Weekly launches with winner badges. | Freemium | Free launch requires their badge; dofollow backlink for weekly top 3. |
+| [Twelve Tools](https://twelve.tools) | Twelve new tools featured every day. | Freemium | Free listing requires a backlink; site states 1 dofollow link (free) or 3 (Pro, $36). DR 83, dofollow (per SubmitSaaS, Oct 2026). |
+| [Open Launch](https://open-launch.com) | Open-source Product Hunt alternative; launches at 8:00 UTC. | Freemium | Free slots stated as booked into 2027; premium $12/launch. DR 71, dofollow (per SubmitSaaS, Oct 2026); SubmitSaaS lists pricing as Paid — conflicts with the site's own page. |
+| [LaunchIgniter](https://launchigniter.com) | Weekly launches with winner badges. | Freemium | Free launch requires their badge; dofollow backlink for weekly top 3. DR 75, nofollow (per SubmitSaaS, Oct 2026); SubmitSaaS lists the link as nofollow — conflicts with the site's own claim. |
 | [OpenHunts](https://openhunts.com) | Product Hunt alternative with weekly launches. | Freemium | Free queue; premium launch $9.9; dofollow for top 3 (free) or guaranteed (premium). |
 | [SaaS Hunt](https://saashunt.best) | Launch platform for SaaS and tech products. | Freemium | Free launch queue; premium $9.9. |
-| [Shipybara](https://shipybara.com) | Weekly launch board for tech products. | Freemium | 18 free slots per week; premium $50. |
-| [Smol Launch](https://smollaunch.com) | Weekly product launches plus launch guides and free SEO tools. | | |
-| [Super Launch](https://www.superlaun.ch) | Launch platform for software products. | | |
-| [StartupBase](https://startupbase.io) | Launch and discover new products every day. | | |
+| [Shipybara](https://shipybara.com) | Weekly launch board for tech products. | Freemium | 18 free slots per week; premium $50. DR 53, dofollow (per SubmitSaaS, Oct 2026). |
+| [Smol Launch](https://smollaunch.com) | Weekly product launches plus launch guides and free SEO tools. | Free* | DR 76, nofollow (per SubmitSaaS, Oct 2026). |
+| [Super Launch](https://www.superlaun.ch) | Launch platform for software products. | Conditional free* | DR 63, nofollow (per SubmitSaaS, Oct 2026). |
+| [StartupBase](https://startupbase.io) | Launch and discover new products every day. | Conditional free* | DR 75, nofollow (per SubmitSaaS, Oct 2026). |
 | [Launch Llama](https://launchllama.co) | Weekly newsletter featuring 5 new tools for founders every Tuesday. | Free | Newsletter-style feature, not a leaderboard. |
-| [HuntScreens](https://huntscreens.com) | Discovery site for new AI tools and products. | Freemium | Free queue (~30 days); $10 for 24h review. |
+| [HuntScreens](https://huntscreens.com) | Discovery site for new AI tools and products. | Freemium | Free queue (~30 days); $10 for 24h review. DR 34, nofollow (per SubmitSaaS, Oct 2026); SubmitSaaS lists pricing as Paid — conflicts with the site's own page. |
+| [PeerPush](https://peerpush.com) | Product discovery platform built for both people and AI search. | Free* | DR 78, dofollow (per SubmitSaaS, Oct 2026). |
+| [Product Watch](https://productwatch.io) | Community-driven daily feed of new tech products and startups. | Free* | DR 72, dofollow (per SubmitSaaS, Oct 2026). |
+| [ShowMySites](https://www.showmysites.com) | Website directory and launch platform. | Free* | DR 71, nofollow (per SubmitSaaS, Oct 2026). |
+| [What Launched Today](https://whatlaunched.today) | Daily feed of new product launches and startups. | Free* | DR 71, dofollow (per SubmitSaaS, Oct 2026). |
+| [NextGen Tools](https://www.nxgntools.com) | Launch site for AI and SaaS tools (NxGn Tools). | Free* | DR 70, dofollow (per SubmitSaaS, Oct 2026). |
+| [Launch](https://trylaunch.ai) | Launch feed for products built by vibe coders (trylaunch.ai). | Free* | DR 56, nofollow (per SubmitSaaS, Oct 2026). |
+| [Launch List](https://www.launch-list.org) | Weekly startup launch platform with voting. | Free* | DR 56, dofollow (per SubmitSaaS, Oct 2026). |
+| [VibeCodingList](https://vibecodinglist.com) | Showcase and feedback for vibe-coded projects. | Free* | DR 54, dofollow (per SubmitSaaS, Oct 2026). |
+| [Viberank](https://viberank.dev) | Vote-based app launch board. | Free* | DR 53, dofollow (per SubmitSaaS, Oct 2026). |
+| [Startups Lab](https://startupslab.site) | Weekly Monday launch to a founder community. | Free* | DR 53, nofollow (per SubmitSaaS, Oct 2026). |
+| [RankInPublic](https://rankinpublic.xyz) | SaaS launches in weekly tournaments. | Free* | DR 52, nofollow (per SubmitSaaS, Oct 2026). |
+| [MakerHunt](https://makerhunt.io) | Weekly AI-focused launch platform for makers. | Free* | DR 48, nofollow (per SubmitSaaS, Oct 2026). |
+| [Sidehunt](https://sidehunt.io) | Weekly launch platform for side projects. | Free* | DR 46, nofollow (per SubmitSaaS, Oct 2026). |
+| [RankCert](https://rankcert.com) | Free weekly launch board plus SEO tools. | Free* | DR 45, nofollow (per SubmitSaaS, Oct 2026). |
+| [aat.ee](https://www.aat.ee) | Daily product launches for startups, AI tools, and SaaS. | Free* | DR 45, dofollow (per SubmitSaaS, Oct 2026). |
+| [LaunchFree.io](https://launchfree.io) | Free product launch directory. | Free* | DR 44, dofollow (per SubmitSaaS, Oct 2026). |
+| [JustHunt](https://justhunt.co) | Indie hacker startup directory and free launchpad. | Free* | DR 44, dofollow (per SubmitSaaS, Oct 2026). |
+| [Indietool](https://www.indietool.io) | Product launch platform with badges. | Paid* | DR 44, dofollow (per SubmitSaaS, Oct 2026). |
+| [WeekHack](https://www.weekhack.com) | Weekly launch platform for side projects. | Free* | DR 43, nofollow (per SubmitSaaS, Oct 2026). |
+| [Saaspa.ge](https://www.saaspa.ge) | Weekly launch board for tech products. | Free* | DR 43, dofollow (per SubmitSaaS, Oct 2026). |
+| [AppLauncher](https://applauncher.dev) | Human-reviewed launch directory for shipped apps (applauncher.dev). | Free* | DR 41, nofollow (per SubmitSaaS, Oct 2026). |
+| [builtbyindies](https://builtbyindies.com) | Weekly launch platform for indie hackers. | Free* | DR 39, dofollow (per SubmitSaaS, Oct 2026). |
+| [Awesome Indie](https://awesomeindie.com) | Daily indie product launches ranked by the community. | Free* | DR 38, dofollow (per SubmitSaaS, Oct 2026). |
+| [LaunchDB](https://bigideasdb.com) | Launch board on bigideasdb.com. | Free* | DR 37, dofollow (per SubmitSaaS, Oct 2026). Site blocks automated checks (HTTP 429). |
+| [Lifto](https://liftoapp.com) | Demo-first startup launch feed. | Free* | DR 36, dofollow (per SubmitSaaS, Oct 2026). |
+| [ShipYardHQ](https://shipyardhq.dev) | Product discovery and launch platform. | Free* | DR 36, dofollow (per SubmitSaaS, Oct 2026). |
+| [HUNT0](https://hunt0.com) | Community-ranked weekly launches. | Free* | DR 32, dofollow (per SubmitSaaS, Oct 2026). |
+| [Stellar Launch](https://www.stellarlaunch.org) | Startup launch and promotion platform. | Free* | DR 32, dofollow (per SubmitSaaS, Oct 2026). |
+| [IndieStore](https://indiestore.co) | Indie product directory with weekly launches. | Free* | DR 30, nofollow (per SubmitSaaS, Oct 2026). |
+| [ProductArena](https://www.productarena.net) | Competitive product discovery with voting. | Free* | DR 29, nofollow (per SubmitSaaS, Oct 2026). |
+| [Launchpad](https://launchpad.ms) | Startup launch and promotion platform (launchpad.ms). | Free* | DR 29, dofollow (per SubmitSaaS, Oct 2026). |
+| [IndieLaunch](https://indielaunch.dev) | Free launch platform for indie makers. | Free* | DR 28, nofollow (per SubmitSaaS, Oct 2026). |
+| [ListYourIdea](https://listyouridea.com) | Minimal weekly launch board for indie makers. | Free* | DR 28, dofollow (per SubmitSaaS, Oct 2026). |
+| [IndieNeed](https://www.indieneed.com) | Daily launch platform for indie products and AI tools. | Free* | DR 25, nofollow (per SubmitSaaS, Oct 2026). |
 
 ## General Startup Directories
 
@@ -79,17 +115,22 @@ Evergreen directories and databases where your startup gets a permanent profile.
 | Name | Description | Pricing | Notes |
 |------|-------------|---------|-------|
 | [Submito](https://submito.net) *(sponsor)* | Curated directory to submit and discover AI tools, apps, and indie projects. | Freemium | Free permanent listing via link exchange (Thursdays only, UTC+8; 14–30 day review). Paid $19.9 one-time: 24–48h review, featured badge, no backlink required. |
-| [Startup Stash](https://startupstash.com) | Curated directory of tools and resources for startups. | | |
-| [Startup Buffer](https://startupbuffer.com) | Startup directory organized by market, location, and tags. | Freemium | Free submission for review; optional promotion packages. |
-| [Crunchbase](https://www.crunchbase.com) | The reference database of private companies and funding. | | Create or claim your company profile. |
+| [Startup Stash](https://startupstash.com) | Curated directory of tools and resources for startups. | Free* | DR 66, dofollow (per SubmitSaaS, Oct 2026). |
+| [Startup Buffer](https://startupbuffer.com) | Startup directory organized by market, location, and tags. | Freemium | Free submission for review; optional promotion packages. DR 44, dofollow (per SubmitSaaS, Oct 2026); SubmitSaaS lists pricing as Paid — conflicts with the site's own page. |
+| [Crunchbase](https://www.crunchbase.com) | The reference database of private companies and funding. | Free* | Create or claim your company profile. DR 91, nofollow (per SubmitSaaS, Oct 2026). |
 | [Wellfound](https://wellfound.com) | Startup jobs and hiring platform (formerly AngelList Talent). | | A company profile doubles as a credible listing. |
-| [F6S](https://www.f6s.com) | Founder community with startup profiles, programs, and deals. | | |
-| [StartupInspire](https://www.startupinspire.com) | Submit and promote your startup; inspiration gallery. | | |
-| [Startup Ranking](https://www.startupranking.com) | Ranks startups worldwide by web presence. | Free | Free to create a startup profile. |
-| [AllTopStartups](https://alltopstartups.com) | Startup news and featured startup profiles. | | Site says free listings are currently suspended. |
-| [SideProjectors](https://www.sideprojectors.com) | Showcase, sell, or buy side projects. | | Useful if you might sell the project later. |
+| [F6S](https://www.f6s.com) | Founder community with startup profiles, programs, and deals. | Free* | DR 83, nofollow (per SubmitSaaS, Oct 2026). |
+| [StartupInspire](https://www.startupinspire.com) | Submit and promote your startup; inspiration gallery. | Free* | DR 59, dofollow (per SubmitSaaS, Oct 2026). |
+| [Startup Ranking](https://www.startupranking.com) | Ranks startups worldwide by web presence. | Free | Free to create a startup profile. DR 62, nofollow (per SubmitSaaS, Oct 2026). |
+| [AllTopStartups](https://alltopstartups.com) | Startup news and featured startup profiles. | Paid* | Site says free listings are currently suspended. DR 59, dofollow (per SubmitSaaS, Oct 2026). |
+| [SideProjectors](https://www.sideprojectors.com) | Showcase, sell, or buy side projects. | Free* | Useful if you might sell the project later. DR 71, dofollow (per SubmitSaaS, Oct 2026). |
 | [ToolFame](https://toolfame.com) | Directory of popular online tools. | Freemium | Free tier: 1 dofollow link (queue); paid from $19.9. |
-| [Indie.Deals](https://indie.deals) | Directory of indie products and deals. | Paid | Standard listing $19, Pro $49 (Oct 2026). |
+| [Indie.Deals](https://indie.deals) | Directory of indie products and deals. | Paid | Standard listing $19, Pro $49 (Oct 2026). DR 61, dofollow (per SubmitSaaS, Oct 2026); SubmitSaaS lists pricing as Conditional Free — conflicts with the site's own page. |
+| [Promote Project](https://www.promoteproject.com) | Startup articles and project showcases. | Free* | DR 50, dofollow (per SubmitSaaS, Oct 2026). |
+| [Ramen.Tools](https://ramen.tools) | See which tools 6,000+ indie makers use; list your product. | Free* | DR 47, dofollow (per SubmitSaaS, Oct 2026). |
+| [AppRater](https://apprater.net) | Human-reviewed app discovery for iOS, Android, desktop, and web. | Free* | DR 40, dofollow (per SubmitSaaS, Oct 2026). |
+| [Makerlist.io](https://makerlist.io) | Directory of new products, tools, and startups. | Free* | DR 32, dofollow (per SubmitSaaS, Oct 2026). |
+| [Hunt Startup](https://huntstartup.com) | Launchpad for SaaS, AI, and tech startups. | Free* | DR 20, nofollow (per SubmitSaaS, Oct 2026). |
 
 ## SaaS & Software Directories
 
@@ -97,24 +138,32 @@ B2B software marketplaces and review sites — great for buyer-intent traffic an
 
 | Name | Description | Pricing | Notes |
 |------|-------------|---------|-------|
-| [SaaSHub](https://www.saashub.com) | Software alternatives and reviews, popular with indie makers. | Freemium | Free submission; optional promotion from $99/month. |
-| [G2](https://www.g2.com) | Large B2B software review marketplace. | | Vendor profile via [G2 for vendors](https://sell.g2.com). |
+| [SaaSHub](https://www.saashub.com) | Software alternatives and reviews, popular with indie makers. | Freemium | Free submission; optional promotion from $99/month. DR 80, nofollow (per SubmitSaaS, Oct 2026). |
+| [G2](https://www.g2.com) | Large B2B software review marketplace. | Free* | Vendor profile via [G2 for vendors](https://sell.g2.com). DR 91, dofollow (per SubmitSaaS, Oct 2026). |
 | [Capterra](https://www.capterra.com) | Software reviews and comparisons (Gartner Digital Markets). | | |
 | [GetApp](https://www.getapp.com) | Business software discovery (Gartner Digital Markets). | | |
 | [Software Advice](https://www.softwareadvice.com) | Software recommendations and reviews (Gartner Digital Markets). | | |
-| [TrustRadius](https://www.trustradius.com) | B2B software reviews from verified users. | | |
-| [SaaSworthy](https://www.saasworthy.com) | SaaS discovery and comparison platform. | Free | "List it on SaaSworthy for FREE." |
-| [Crozdesk](https://crozdesk.com) | Business software search and buyer guides. | | |
-| [SourceForge](https://sourceforge.net) | Open source hosting plus a large business software directory. | | |
+| [TrustRadius](https://www.trustradius.com) | B2B software reviews from verified users. | Free* | DR 85, nofollow (per SubmitSaaS, Oct 2026). |
+| [SaaSworthy](https://www.saasworthy.com) | SaaS discovery and comparison platform. | Free | "List it on SaaSworthy for FREE.". DR 75, nofollow (per SubmitSaaS, Oct 2026). |
+| [Crozdesk](https://crozdesk.com) | Business software search and buyer guides. | Free* | DR 74, nofollow (per SubmitSaaS, Oct 2026). |
+| [SourceForge](https://sourceforge.net) | Open source hosting plus a large business software directory. | Free* | DR 93, nofollow (per SubmitSaaS, Oct 2026). |
 | [Slashdot Software](https://slashdot.org/software/) | Business software directory by Slashdot. | | |
-| [SoftwareSuggest](https://www.softwaresuggest.com) | Software reviews and recommendations (strong in India). | Freemium | Free product listing plan available. |
-| [SoftwareWorld](https://www.softwareworld.co) | Software and service-provider review site. | | Vendor account to list or claim a profile. |
+| [SoftwareSuggest](https://www.softwaresuggest.com) | Software reviews and recommendations (strong in India). | Freemium | Free product listing plan available. DR 78, nofollow (per SubmitSaaS, Oct 2026). |
+| [SoftwareWorld](https://www.softwareworld.co) | Software and service-provider review site. | Paid* | Vendor account to list or claim a profile. DR 73, nofollow (per SubmitSaaS, Oct 2026). |
 | [GoodFirms](https://www.goodfirms.co) | B2B reviews for software and service companies. | | |
-| [SaaS Browser](https://saasbrowser.com) | Search engine/database of SaaS products. | | |
-| [StackShare](https://stackshare.io) | Developer tool stacks and tool comparisons. | | Best for dev tools and APIs. |
+| [SaaS Browser](https://saasbrowser.com) | Search engine/database of SaaS products. | Free* | DR 72, nofollow (per SubmitSaaS, Oct 2026). |
+| [StackShare](https://stackshare.io) | Developer tool stacks and tool comparisons. | Free* | Best for dev tools and APIs. DR 78, nofollow (per SubmitSaaS, Oct 2026). |
 | [Zapier App Directory](https://zapier.com/apps) | Directory of apps that integrate with Zapier. | | Requires building a Zapier integration. |
-| [AppSumo](https://appsumo.com) | Marketplace for software deals; launch via [AppSumo for partners](https://sell.appsumo.com). | | Application-based. |
+| [AppSumo](https://appsumo.com) | Marketplace for software deals; launch via [AppSumo for partners](https://sell.appsumo.com). | Free* | Application-based. DR 83, dofollow (per SubmitSaaS, Oct 2026). |
 | [SaaSPirate](https://saaspirate.com) | SaaS lifetime deals and discounts. | | Submit a deal (discount, LTD, extended trial, giveaway). |
+| [Verified Tools](https://www.verifiedtools.info) | Hand-reviewed directory of AI and SaaS tools. | Free* | DR 55, nofollow (per SubmitSaaS, Oct 2026). |
+| [Scout Forge](https://scoutforge.net) | New app discovery with reviews. | Free* | DR 49, dofollow (per SubmitSaaS, Oct 2026). |
+| [CurateClick](https://curateclick.com) | Directory of developer tools and products. | Free* | DR 45, nofollow (per SubmitSaaS, Oct 2026). |
+| [Visalytica](https://www.visalytica.com) | Curated directory of SaaS and AI tools. | Free* | DR 33, dofollow (per SubmitSaaS, Oct 2026). |
+| [Resource.fyi](https://resource.fyi) | Curated tools and resources for developers, designers, and marketers. | Free* | DR 31, dofollow (per SubmitSaaS, Oct 2026). |
+| [MicroSaaS Directory](https://microsaas.directory) | Directory of independent micro-SaaS products. | Free* | DR 30, dofollow (per SubmitSaaS, Oct 2026). |
+| [Endors](https://endors.me) | Products ranked by verified customer endorsements. | Free* | DR 23, dofollow (per SubmitSaaS, Oct 2026). |
+| [AIInLink](https://aiinlink.com) | Directory of vibe-coded AI tools and SaaS. | Free* | DR 20, dofollow (per SubmitSaaS, Oct 2026). |
 
 ## AI Tool Directories
 
@@ -122,34 +171,50 @@ If you're building with AI, these directories have huge search traffic.
 
 | Name | Description | Pricing | Notes |
 |------|-------------|---------|-------|
-| [There's An AI For That](https://theresanaiforthat.com) | The largest AI tool aggregator. | Paid | $49 one-time review fee (Oct 2026); site runs a monthly free X thread for indie makers. |
-| [Futurepedia](https://www.futurepedia.io) | Popular AI tools directory with tutorials. | | |
-| [Toolify](https://www.toolify.ai) | AI tools directory with millions of monthly users. | | Site states listed tools get at least 6 dofollow links. |
-| [Future Tools](https://www.futuretools.io) | Curated AI tools collection by Matt Wolfe. | | |
-| [TopAI.tools](https://topai.tools) | Find the right AI tool for every task. | | Fast Track listing $47 one-time. |
-| [Dang.ai](https://dang.ai) | Curated AI tools directory. | Freemium | Free with a crawlable backlink to dang.ai; Basic $49 skips the backlink. |
+| [There's An AI For That](https://theresanaiforthat.com) | The largest AI tool aggregator. | Paid | $49 one-time review fee (Oct 2026); site runs a monthly free X thread for indie makers. DR 77, dofollow (per SubmitSaaS, Oct 2026). |
+| [Futurepedia](https://www.futurepedia.io) | Popular AI tools directory with tutorials. | Paid* | DR 73, nofollow (per SubmitSaaS, Oct 2026). |
+| [Toolify](https://www.toolify.ai) | AI tools directory with millions of monthly users. | Paid* | Site states listed tools get at least 6 dofollow links. DR 72, dofollow (per SubmitSaaS, Oct 2026). |
+| [Future Tools](https://www.futuretools.io) | Curated AI tools collection by Matt Wolfe. | Free* | DR 69, dofollow (per SubmitSaaS, Oct 2026). |
+| [TopAI.tools](https://topai.tools) | Find the right AI tool for every task. | Paid* | Fast Track listing $47 one-time. DR 64, dofollow (per SubmitSaaS, Oct 2026). |
+| [Dang.ai](https://dang.ai) | Curated AI tools directory. | Freemium | Free with a crawlable backlink to dang.ai; Basic $49 skips the backlink. DR 82, dofollow (per SubmitSaaS, Oct 2026). |
 | [AI Tools Directory](https://aitoolsdirectory.com) | Browse curated AI tools by category. | Free | Site states it does not charge listing fees. |
-| [Aitoolnet](https://www.aitoolnet.com) | AI tools directory and search engine. | Freemium | Free (published within 30 days, do-follow); Pro $9.9 for 24h. |
-| [Easy With AI](https://easywithai.com) | AI tools and services directory. | Paid | $125 submission; site states the link is dofollow. |
-| [Altern](https://altern.ai) | AI tools and agents directory. | Freemium | Free plan; featured plan $29. |
-| [Tool Directory](https://www.tooldirectory.ai) | AI tools directory with comparisons. | Paid | Every listing carries a fee. |
-| [AIHuntList](https://aihuntlist.com) | AI products directory and tools list. | Freemium | Free listing with editorial review. |
-| [AI Agents Directory](https://aiagentsdirectory.com) | Directory and landscape map of AI agents. | | Agents only. |
+| [Aitoolnet](https://www.aitoolnet.com) | AI tools directory and search engine. | Freemium | Free (published within 30 days, do-follow); Pro $9.9 for 24h. DR 56, dofollow (per SubmitSaaS, Oct 2026); SubmitSaaS lists pricing as Paid — conflicts with the site's own page. |
+| [Easy With AI](https://easywithai.com) | AI tools and services directory. | Paid | $125 submission; site states the link is dofollow. DR 60, dofollow (per SubmitSaaS, Oct 2026). |
+| [Altern](https://altern.ai) | AI tools and agents directory. | Freemium | Free plan; featured plan $29. DR 55, dofollow (per SubmitSaaS, Oct 2026); SubmitSaaS lists pricing as Paid — conflicts with the site's own page. |
+| [Tool Directory](https://www.tooldirectory.ai) | AI tools directory with comparisons. | Paid | Every listing carries a fee. DR 50, dofollow (per SubmitSaaS, Oct 2026). |
+| [AIHuntList](https://aihuntlist.com) | AI products directory and tools list. | Freemium | Free listing with editorial review. DR 57, dofollow (per SubmitSaaS, Oct 2026). |
+| [AI Agents Directory](https://aiagentsdirectory.com) | Directory and landscape map of AI agents. | Conditional free* | Agents only. DR 75, dofollow (per SubmitSaaS, Oct 2026). |
 | [AI Agents List](https://aiagentslist.com) | Curated list of AI agents. | Paid | $29 or $49 one-time, refund if not approved. |
-| [GPTs Hunter](https://www.gptshunter.com) | Directory of custom GPTs from the GPT Store. | Free | For custom GPTs. |
+| [GPTs Hunter](https://www.gptshunter.com) | Directory of custom GPTs from the GPT Store. | Free | For custom GPTs. DR 53, nofollow (per SubmitSaaS, Oct 2026). |
 | [MCP.so](https://mcp.so) | Directory of Model Context Protocol (MCP) servers. | | Paid $39 option for immediate publishing, featured placement, dofollow link. |
 | [AI Valley](https://aivalley.ai) | Newest AI tools and prompts. | | |
 | [Insidr.ai](https://www.insidr.ai) | AI tools directory and reviews for business. | | |
-| [Toolpilot](https://www.toolpilot.ai) | AI tools directory with coupon codes and guides. | | |
-| [ToolsForHumans](https://www.toolsforhumans.ai) | AI tool reviews and deals. | | |
-| [AI Depot](https://aidepot.co) | AI tools directory. | | |
-| [AI Tools Club](https://aitoolsclub.com) | AI tools directory and newsletter. | | |
+| [Toolpilot](https://www.toolpilot.ai) | AI tools directory with coupon codes and guides. | Conditional free* | DR 79, dofollow (per SubmitSaaS, Oct 2026). |
+| [ToolsForHumans](https://www.toolsforhumans.ai) | AI tool reviews and deals. | Paid* | DR 43, dofollow (per SubmitSaaS, Oct 2026). |
+| [AI Depot](https://aidepot.co) | AI tools directory. | Paid* | DR 29, dofollow (per SubmitSaaS, Oct 2026). |
+| [AI Tools Club](https://aitoolsclub.com) | AI tools directory and newsletter. | Paid* | DR 36, dofollow (per SubmitSaaS, Oct 2026). |
 | [AICYCLOPEDIA](https://www.aicyclopedia.com) | AI news, tools, and learning. | | |
-| [OpenFuture](https://openfuture.ai) | Large AI tools database filterable by pricing. | | |
-| [AIxploria](https://www.aixploria.com/en/) | AI tools directory organized by category (top 10s). | | |
-| [AITopTools](https://aitoptools.com) | AI tools directory updated daily. | | |
+| [OpenFuture](https://openfuture.ai) | Large AI tools database filterable by pricing. | Free* | DR 52, nofollow (per SubmitSaaS, Oct 2026). |
+| [AIxploria](https://www.aixploria.com/en/) | AI tools directory organized by category (top 10s). | Paid* | DR 56, nofollow (per SubmitSaaS, Oct 2026). |
+| [AITopTools](https://aitoptools.com) | AI tools directory updated daily. | Paid* | DR 56, nofollow (per SubmitSaaS, Oct 2026). |
 | [TopTools.ai](https://www.toptools.ai) | AI tools directory. | | |
-| [SaaS AI Tools](https://saasaitools.com) | Directory of generative AI tools. | | |
+| [SaaS AI Tools](https://saasaitools.com) | Directory of generative AI tools. | Free* | DR 53, nofollow (per SubmitSaaS, Oct 2026). |
+| [ProofStories](https://proofstories.io) | Directory of startups with shipped products and paying customers. | Free* | DR 49, nofollow (per SubmitSaaS, Oct 2026). |
+| [BAI.tools](https://bai.tools) | AI tools directory. | Free* | DR 47, dofollow (per SubmitSaaS, Oct 2026). |
+| [Tip Season](https://www.tipseason.com) | AI tools, prompts, and courses hub. | Free* | DR 46, dofollow (per SubmitSaaS, Oct 2026). |
+| [Forward Future](https://forwardfuture.com/tools) | Curated directory of 700+ AI tools. | Free* | DR 40, nofollow (per SubmitSaaS, Oct 2026). |
+| [AIStart.ai](https://aistart.ai) | AI tools directory with personal launchpads. | Free* | DR 40, nofollow (per SubmitSaaS, Oct 2026). |
+| [AIToolsCapital](https://aitoolscapital.com) | Weekly leaderboard competition for AI tools. | Free* | DR 39, dofollow (per SubmitSaaS, Oct 2026). |
+| [WhatTheAI](https://whattheai.tech) | AI tools directory. | Free* | DR 37, dofollow (per SubmitSaaS, Oct 2026). |
+| [Rank my AI](https://www.rankmyai.com) | Independent ranking of 75,000+ AI tools. | Free* | DR 36, nofollow (per SubmitSaaS, Oct 2026). |
+| [Dynamite AI](https://www.dynamite-ai.com) | AI tools directory. | Free* | DR 32, dofollow (per SubmitSaaS, Oct 2026). |
+| [AISO Tools](https://aisotools.com) | Directory of 500+ curated AI tools. | Free* | DR 27, dofollow (per SubmitSaaS, Oct 2026). |
+| [AI Tools Lister](https://aitoolslister.com) | Community-ranked AI tools directory. | Free* | DR 27, nofollow (per SubmitSaaS, Oct 2026). |
+| [AiToolex](https://aitoolex.com) | Global AI tools directory. | Free* | DR 26, dofollow (per SubmitSaaS, Oct 2026). |
+| [Hypertools](https://hypertools.so) | AI tools directory for entrepreneurs and creators. | Free* | DR 24, dofollow (per SubmitSaaS, Oct 2026). |
+| [ToolTrove](https://tooltrove.net) | Catalog of AI tools and services. | Free* | DR 23, nofollow (per SubmitSaaS, Oct 2026). |
+| [AIArt.Tools](https://aiart.tools) | Directory of AI tools and models. | Free* | DR 22, dofollow (per SubmitSaaS, Oct 2026). |
+| [AI Tools Up](https://aitoolsup.com) | AI tools directory. | Free* | DR 22, dofollow (per SubmitSaaS, Oct 2026). |
 
 ## Communities & Forums
 
@@ -157,19 +222,22 @@ Real conversations, real users. Share genuinely — self-promotion rules are str
 
 | Name | Description | Pricing | Notes |
 |------|-------------|---------|-------|
-| [Indie Hackers](https://www.indiehackers.com) | Community of founders building profitable online businesses. | Free | Share milestones and lessons, not just links. |
+| [Indie Hackers](https://www.indiehackers.com) | Community of founders building profitable online businesses. | Free | Share milestones and lessons, not just links. DR 82, nofollow (per SubmitSaaS, Oct 2026). |
 | [r/SideProject](https://www.reddit.com/r/SideProject/) | Subreddit for sharing side projects. | Free | |
 | [r/startups](https://www.reddit.com/r/startups/) | Startup discussion subreddit. | Free | Promotion only in designated threads — check rules. |
 | [r/SaaS](https://www.reddit.com/r/SaaS/) | SaaS founders subreddit. | Free | |
 | [r/indiehackers](https://www.reddit.com/r/indiehackers/) | Indie hacker subreddit. | Free | |
 | [r/alphaandbetausers](https://www.reddit.com/r/alphaandbetausers/) | Find early testers for your product. | Free | |
-| [DEV Community](https://dev.to) | Developer blogging community. | Free | Write a build log or tutorial featuring your product. |
-| [Hashnode](https://hashnode.com) | Developer blogging platform. | Free | |
+| [DEV Community](https://dev.to) | Developer blogging community. | Free | Write a build log or tutorial featuring your product. DR 91, dofollow (per SubmitSaaS, Oct 2026). |
+| [Hashnode](https://hashnode.com) | Developer blogging platform. | Free | DR 83, dofollow (per SubmitSaaS, Oct 2026). |
 | [HackerNoon](https://hackernoon.com) | Tech publishing platform open to contributors. | | Editorial review. |
 | [Lobsters](https://lobste.rs) | Computing-focused link aggregator. | | Invite-only; strict about self-promotion. |
 | [Designer News](https://www.designernews.co) | Hand-picked links for the design community. | | |
 | [WIP](https://wip.co) | Community of makers shipping in public. | | |
-| [Betabound](https://www.betabound.com) | Beta-testing opportunities for testers. | | Good for recruiting beta testers. |
+| [Betabound](https://www.betabound.com) | Beta-testing opportunities for testers. | Free* | Good for recruiting beta testers. DR 56, dofollow (per SubmitSaaS, Oct 2026); SubmitSaaS tags it "Not a Directory". |
+| [Forg](https://forg.to) | Social network for people who build and ship. | Free* | DR 45, nofollow (per SubmitSaaS, Oct 2026). |
+| [Make.rs](https://make.rs) | Makers share what they're working on. | Free* | DR 40, dofollow (per SubmitSaaS, Oct 2026). |
+| [SideProjects](https://sideprojects.net) | Daily launchpad where indie makers show what they built. | Free* | DR 20, dofollow (per SubmitSaaS, Oct 2026). |
 
 ## Alternatives & Open Source
 
@@ -177,10 +245,10 @@ Position your product as an alternative to well-known tools.
 
 | Name | Description | Pricing | Notes |
 |------|-------------|---------|-------|
-| [AlternativeTo](https://alternativeto.net) | Crowdsourced software alternatives. | | Add your app and link it to the products you replace. |
-| [Alternative.me](https://alternative.me) | Find better software alternatives. | | |
-| [OpenAlternative](https://openalternative.co) | Open source alternatives to popular software. | | Open source projects only; sign-in required. |
-| [Open Source Alternative](https://www.opensourcealternative.to) | Open source alternatives to proprietary software. | | Paid option for 48-hour review. |
+| [AlternativeTo](https://alternativeto.net) | Crowdsourced software alternatives. | Free* | Add your app and link it to the products you replace. DR 81, nofollow (per SubmitSaaS, Oct 2026). |
+| [Alternative.me](https://alternative.me) | Find better software alternatives. | Free* | DR 76, nofollow (per SubmitSaaS, Oct 2026). |
+| [OpenAlternative](https://openalternative.co) | Open source alternatives to popular software. | Free* | Open source projects only; sign-in required. DR 61, dofollow (per SubmitSaaS, Oct 2026). |
+| [Open Source Alternative](https://www.opensourcealternative.to) | Open source alternatives to proprietary software. | Free* | Paid option for 48-hour review. DR 49, dofollow (per SubmitSaaS, Oct 2026). |
 | [LibHunt](https://www.libhunt.com) | Trending open-source projects and their alternatives. | | |
 | [selfh.st](https://selfh.st) | Self-hosted software directory and newsletter. | | Self-hostable apps. |
 | [Awesome](https://github.com/sindresorhus/awesome) | The index of awesome lists on GitHub. | Free | Find topic lists and open a PR to the relevant one. |
@@ -203,7 +271,7 @@ Platform-specific listings that bring built-in distribution.
 | [Notion Marketplace](https://www.notion.com/templates) | 30,000+ Notion templates. | | |
 | [Gumroad Discover](https://gumroad.com/discover) | Discover digital products from independent creators. | | |
 | [Made in Webflow](https://webflow.com/made-in-webflow) | Showcase of sites built with Webflow. | | Webflow sites only. |
-| [No Code Founders](https://www.nocodefounders.com) | No-code tools and deals directory. | Paid | $500 lifetime listing (Oct 2026). |
+| [No Code Founders](https://www.nocodefounders.com) | No-code tools and deals directory. | Paid | $500 lifetime listing (Oct 2026). DR 51, nofollow (per SubmitSaaS, Oct 2026); SubmitSaaS lists pricing as Free — conflicts with the site's own page. |
 
 ## Design & Landing Page Galleries
 
@@ -213,7 +281,7 @@ If your site looks great, galleries send designers, founders, and links your way
 |------|-------------|---------|-------|
 | [Awwwards](https://www.awwwards.com) | Website awards for design excellence. | | |
 | [CSS Design Awards](https://www.cssdesignawards.com) | Web design awards and inspiration. | | |
-| [Land-book](https://land-book.com) | Website design inspiration gallery. | | |
+| [Land-book](https://land-book.com) | Website design inspiration gallery. | Free* | DR 73, dofollow (per SubmitSaaS, Oct 2026). |
 | [Lapa Ninja](https://www.lapa.ninja) | 7,300+ landing page design examples. | | |
 | [SaaS Landing Page](https://saaslandingpage.com) | Landing page examples from SaaS companies. | | |
 | [One Page Love](https://onepagelove.com) | One-page website inspiration and templates. | | |
@@ -229,13 +297,27 @@ Startup databases and news outlets by region — pitch a story or add a company 
 | [BetaKit](https://www.betakit.com) | Canadian startup and tech news. | | Canada |
 | [e27](https://e27.co) | Asia's startup and tech ecosystem, with startup profiles. | | Southeast Asia |
 | [Tech in Asia](https://www.techinasia.com) | Asian startup news and [company database](https://www.techinasia.com/companies). | | Asia |
-| [YourStory](https://yourstory.com) | Stories about startups and entrepreneurs. | | India |
+| [YourStory](https://yourstory.com) | Stories about startups and entrepreneurs. | Free* | India. DR 85, dofollow (per SubmitSaaS, Oct 2026). |
 | [Inc42](https://inc42.com) | Indian tech and startup news. | | India |
 | [Disrupt Africa](https://disruptafrica.com) | African tech startup news. | | Africa |
 | [36Kr](https://36kr.com) | Leading Chinese startup and tech media. | | China |
 | [V2EX](https://www.v2ex.com) | Chinese developer and maker community ("分享创造" board for projects). | Free | China |
 | [Juejin](https://juejin.cn) | Chinese developer community. | Free | China |
 | [Qiita](https://qiita.com) | Japanese developer knowledge-sharing community. | Free | Japan |
+
+## Web Directories & Search Engines
+
+Classic web directories and independent search engines that accept site submissions. Mostly useful for long-tail backlinks.
+
+| Name | Description | Pricing | Notes |
+|------|-------------|---------|-------|
+| [Active Search Results](https://www.activesearchresults.com) | Independent web search engine that accepts site submissions. | Free* | DR 74, dofollow (per SubmitSaaS, Oct 2026). |
+| [Link Centre](https://www.linkcentre.com) | Long-running web directory (since 1996) with categorized listings. | Free* | DR 72, dofollow (per SubmitSaaS, Oct 2026). |
+| [Viesearch](https://viesearch.com) | Community-curated search engine for websites and businesses. | Free* | DR 72, dofollow (per SubmitSaaS, Oct 2026). |
+| [Sitelike.org](https://www.sitelike.org) | Similar-sites and alternative-website finder. | Free* | DR 64, nofollow (per SubmitSaaS, Oct 2026). |
+| [Addon Biz](https://www.addonbiz.com) | General business listing directory. | Free* | DR 62, nofollow (per SubmitSaaS, Oct 2026). |
+| [Linkorado](https://linkorado.com) | Link exchange directory for finding link partners. | Free* | DR 52, dofollow (per SubmitSaaS, Oct 2026). |
+| [FreeListingUK](https://www.freelistinguk.com) | Free UK local business directory. | Free* | DR 41, nofollow (per SubmitSaaS, Oct 2026). |
 
 ## Directory Lists & Submission Services
 
@@ -245,11 +327,14 @@ Meta-resources for when you want to go further — or delegate the grunt work.
 |------|-------------|---------|-------|
 | [Submito – Bulk submit](https://submito.net/pricing) *(sponsor)* | One year of unlimited Submito submissions plus one product submitted to 10 partner sites. | Paid | $199 one-time for a year, no auto-renewal; partner sites are private and subject to their own review. |
 | [LaunchDirectories](https://launchdirectories.com) | Searchable list of 100+ startup directories with DR and link-type data; also offers done-for-you submissions. | Freemium | Browsing is free; submission packages from $99. |
+| [SubmitSaaS](https://submitsaas.com) | Public database of 900+ directories with DR, link type, and pricing; also a done-for-you submission service. | Freemium | Browsing the database is free; submission packages $60 (60+ directories), $100 (100+), $140 (140+), one-time; paid directories not included (Oct 2026). Source of the * data in this list. |
+| [DR Checker](https://drchecker.org) | Free Ahrefs Domain Rating checker (listed by SubmitSaaS). | Free* | DR 30, dofollow (per SubmitSaaS, Oct 2026). |
 
 ## How this list is maintained
 
 - Every link was checked to load in **October 2026**. Some large sites (e.g. Product Hunt, G2, Capterra) answer automated checks with bot-protection pages (HTTP 403/429); they are kept because the servers are clearly live.
 - Sites that were offline, parked, redirected to unrelated content, or no longer accept submissions were removed.
+- DR (Ahrefs Domain Rating), link type, and some pricing data are sourced from the public [SubmitSaaS](https://submitsaas.com/directories) database (last updated Oct 26, 2026) and always attributed. Where it disagrees with the site's own page, both are shown.
 - We never invent metrics. Pricing and link-type info appears only when the site states it publicly; we don't publish our own DR estimates.
 - Spot something outdated? [Open an issue](../../issues) or send a PR.
 
