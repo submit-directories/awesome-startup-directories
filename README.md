@@ -6,7 +6,7 @@
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](LICENSE)
-[![Directories](https://img.shields.io/badge/directories-192-orange.svg)](#contents)
+[![Directories](https://img.shields.io/badge/directories-193-orange.svg)](#contents)
 [![Last verified](https://img.shields.io/badge/links%20verified-Oct%202026-blue.svg)](#how-this-list-is-maintained)
 
 </div>
@@ -126,6 +126,7 @@ Evergreen directories and databases where your startup gets a permanent profile.
 | [AppRater](https://apprater.net) | Human-reviewed app discovery for iOS, Android, desktop, and web. | Free* | DR 40, dofollow (per SubmitSaaS, Oct 2026). |
 | [Makerlist.io](https://makerlist.io) | Directory of new products, tools, and startups. | Free* | DR 32, dofollow (per SubmitSaaS, Oct 2026). |
 | [SitePatent](https://sitepatent.com) | Directory of startups, tools, and online products by category and tech stack. | Freemium | DR 52 (Ahrefs, Nov 2026). Free listing needs a homepage badge and waits 7+ days; paid plans are one-time from $19. |
+| [CodeTrendy](https://codetrendy.com) | Directory where builders list and discover startups, dev tools and online products. | Freemium | Free listing needs a homepage badge; paid plans are one-time from $19. |
 
 ## SaaS & Software Directories
 
