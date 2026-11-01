@@ -313,6 +313,7 @@ Meta-resources for when you want to go further — or delegate the grunt work.
 | [LaunchDirectories](https://launchdirectories.com) | Searchable list of 100+ startup directories with DR and link-type data; also offers done-for-you submissions. | Freemium | Browsing is free; submission packages from $99. |
 | [SubmitSaaS](https://submitsaas.com) | Public database of 900+ directories with DR, link type, and pricing; also a done-for-you submission service. | Freemium | Browsing the database is free; submission packages $60 (60+ directories), $100 (100+), $140 (140+), one-time; paid directories not included (Oct 2026). Source of the * data in this list. |
 | [DR Checker](https://drchecker.org) | Free Ahrefs Domain Rating checker (listed by SubmitSaaS). | Free* | DR 30, dofollow (per SubmitSaaS, Oct 2026). |
+| [Backlink Dirs](https://backlinkdirs.com) | Backlink resource directory of sites for building SEO backlinks. | Freemium | Free listing requires a backlink; Pro from £9.9 one-time skips it. |
 
 ## How this list is maintained
 
