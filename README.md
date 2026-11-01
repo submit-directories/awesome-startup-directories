@@ -6,7 +6,7 @@
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](LICENSE)
-[![Directories](https://img.shields.io/badge/directories-192-orange.svg)](#contents)
+[![Directories](https://img.shields.io/badge/directories-198-orange.svg)](#contents)
 [![Last verified](https://img.shields.io/badge/links%20verified-Oct%202026-blue.svg)](#how-this-list-is-maintained)
 
 </div>
@@ -159,6 +159,7 @@ B2B software marketplaces and review sites — great for buyer-intent traffic an
 | [Resource.fyi](https://resource.fyi) | Curated tools and resources for developers, designers, and marketers. | Free* | DR 31, dofollow (per SubmitSaaS, Oct 2026). |
 | [MicroSaaS Directory](https://microsaas.directory) | Directory of independent micro-SaaS products. | Free* | DR 30, dofollow (per SubmitSaaS, Oct 2026). |
 | [DeepLaunch.io](https://deeplaunch.io) | Directory for discovering AI tools, SaaS products, and online resources. | Freemium | Free listing requires a reciprocal badge; paid plans offer priority or featured placement. |
+| [SuperLaunch List](https://superlaunchlist.com) | Curated directory for discovering and submitting AI tools and SaaS products. | Freemium | Free listings require a badge and review; paid plans offer instant publication without badge verification. |
 
 ## AI Tool Directories
 
