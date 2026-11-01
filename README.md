@@ -102,6 +102,7 @@ Daily/weekly launch boards where products compete for upvotes and homepage expos
 | [HUNT0](https://hunt0.com) | Community-ranked weekly launches. | Free* | DR 32, dofollow (per SubmitSaaS, Oct 2026). |
 | [Stellar Launch](https://www.stellarlaunch.org) | Startup launch and promotion platform. | Free* | DR 32, dofollow (per SubmitSaaS, Oct 2026). |
 | [IndieStore](https://indiestore.co) | Indie product directory with weekly launches. | Free* | DR 30, nofollow (per SubmitSaaS, Oct 2026). |
+| [FastLaunch](https://fastlaunch.io) | Daily product launch platform with scheduled launches and community rankings. | Freemium | Free scheduled launches; paid priority scheduling. Site states free dofollow links are limited to the daily top three. |
 
 ## General Startup Directories
 
