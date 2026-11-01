@@ -302,6 +302,7 @@ Classic web directories and independent search engines that accept site submissi
 | [Addon Biz](https://www.addonbiz.com) | General business listing directory. | Free* | DR 62, nofollow (per SubmitSaaS, Oct 2026). |
 | [Linkorado](https://linkorado.com) | Link exchange directory for finding link partners. | Free* | DR 52, dofollow (per SubmitSaaS, Oct 2026). |
 | [FreeListingUK](https://www.freelistinguk.com) | Free UK local business directory. | Free* | DR 41, nofollow (per SubmitSaaS, Oct 2026). |
+| [NavFolders](https://navfolders.com) | Curated web resource directory with product categories, tags, and collections. | Freemium | Free submission requires a reciprocal badge; paid Pro listings do not require a backlink. |
 
 ## Directory Lists & Submission Services
 
