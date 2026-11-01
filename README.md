@@ -157,6 +157,7 @@ B2B software marketplaces and review sites — great for buyer-intent traffic an
 | [Visalytica](https://www.visalytica.com) | Curated directory of SaaS and AI tools. | Free* | DR 33, dofollow (per SubmitSaaS, Oct 2026). |
 | [Resource.fyi](https://resource.fyi) | Curated tools and resources for developers, designers, and marketers. | Free* | DR 31, dofollow (per SubmitSaaS, Oct 2026). |
 | [MicroSaaS Directory](https://microsaas.directory) | Directory of independent micro-SaaS products. | Free* | DR 30, dofollow (per SubmitSaaS, Oct 2026). |
+| [SuperLaunch List](https://superlaunchlist.com) | Curated directory for discovering and submitting AI tools and SaaS products. | Freemium | Free listings require a badge and review; paid plans offer instant publication without badge verification. |
 
 ## AI Tool Directories
 
