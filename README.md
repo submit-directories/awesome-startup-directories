@@ -200,6 +200,7 @@ If you're building with AI, these directories have huge search traffic.
 | [WhatTheAI](https://whattheai.tech) | AI tools directory. | Free* | DR 37, dofollow (per SubmitSaaS, Oct 2026). |
 | [Rank my AI](https://www.rankmyai.com) | Independent ranking of 75,000+ AI tools. | Free* | DR 36, nofollow (per SubmitSaaS, Oct 2026). |
 | [Dynamite AI](https://www.dynamite-ai.com) | AI tools directory. | Free* | DR 32, dofollow (per SubmitSaaS, Oct 2026). |
+| [AIDirs](https://aidirs.org) | Curated AI tools directory to discover, compare, and submit AI products. | Freemium | Free listing requires a backlink; Pro from £9.9 one-time skips it. |
 
 ## Communities & Forums
 
