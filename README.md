@@ -262,6 +262,7 @@ Platform-specific listings that bring built-in distribution.
 | [Gumroad Discover](https://gumroad.com/discover) | Discover digital products from independent creators. | | |
 | [Made in Webflow](https://webflow.com/made-in-webflow) | Showcase of sites built with Webflow. | | Webflow sites only. |
 | [No Code Founders](https://www.nocodefounders.com) | No-code tools and deals directory. | Paid | $500 lifetime listing (Oct 2026). DR 51, nofollow (per SubmitSaaS, Oct 2026); SubmitSaaS lists pricing as Free — conflicts with the site's own page. |
+| [PWA Directory](https://pwa.directory) | Curated directory of installable progressive web apps. | Freemium | Free submission; optional paid Fast-Track review. |
 
 ## Design & Landing Page Galleries
 
