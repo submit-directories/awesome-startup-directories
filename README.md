@@ -168,6 +168,7 @@ If you're building with AI, these directories have huge search traffic.
 
 | Name | Description | Pricing | Notes |
 |------|-------------|---------|-------|
+| [MeetNewAI](https://meetnewai.com) | Free bilingual directory of AI tools, AI games and MCP servers, organized by job. | Free | Free browse; product submission available for free review. |
 | [There's An AI For That](https://theresanaiforthat.com) | The largest AI tool aggregator. | Paid | $49 one-time review fee (Oct 2026); site runs a monthly free X thread for indie makers. DR 77, dofollow (per SubmitSaaS, Oct 2026). |
 | [Futurepedia](https://www.futurepedia.io) | Popular AI tools directory with tutorials. | Paid* | DR 73, nofollow (per SubmitSaaS, Oct 2026). |
 | [Toolify](https://www.toolify.ai) | AI tools directory with millions of monthly users. | Paid* | Site states listed tools get at least 6 dofollow links. DR 72, dofollow (per SubmitSaaS, Oct 2026). |
