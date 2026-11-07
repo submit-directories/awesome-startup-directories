@@ -206,6 +206,8 @@ If you're building with AI, these directories have huge search traffic.
 | [Dynamite AI](https://www.dynamite-ai.com) | AI tools directory. | Free* | DR 32, dofollow (per SubmitSaaS, Oct 2026). |
 | [AIDirs](https://aidirs.org) | Curated AI tools directory to discover, compare, and submit AI products. | Freemium | Free listing requires a backlink; Pro from £9.9 one-time skips it. |
 | [NovaTools](https://novatools.ai) | AI tool directory covering AI, creative and utility software by category. | Paid | DR 48 (per SubmitSaaS, Nov 2026), dofollow. Free submissions currently closed; paid listing $19.9 one-time, reviewed in 24-48 hours. |
+| [Public Prompts](https://www.publicprompts.art/) | Curated AI-tools directory with category and pricing filters. | Paid | US$19.99 once plus tax before editorial review; refunded if declined. Browsing is free. |
+
 
 ## Communities & Forums
 
