@@ -104,6 +104,7 @@ Daily/weekly launch boards where products compete for upvotes and homepage expos
 | [IndieStore](https://indiestore.co) | Indie product directory with weekly launches. | Free* | DR 30, nofollow (per SubmitSaaS, Oct 2026). |
 | [FastLaunch](https://fastlaunch.io) | Daily product launch platform with scheduled launches and community rankings. | Freemium | Free scheduled launches; paid priority scheduling. Site states free dofollow links are limited to the daily top three. |
 | [LaunchitX](https://launchitx.com) | Platform for makers and indie hackers to launch and discover products. | Freemium | Free launch; Premium $9.9 / Premium Plus $29.9 one-time. Pricing page does not state whether links are dofollow. |
+| [Launchef](https://launchef.com) | Free launch platform with a live upvote leaderboard, ratings and reviews. | Free | No paid spots or boosts; launches with three real upvotes earn a dofollow backlink. |
 
 ## General Startup Directories
 
