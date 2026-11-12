@@ -245,6 +245,7 @@ Position your product as an alternative to well-known tools.
 | [selfh.st](https://selfh.st) | Self-hosted software directory and newsletter. | | Self-hostable apps. |
 | [Awesome](https://github.com/sindresorhus/awesome) | The index of awesome lists on GitHub. | Free | Find topic lists and open a PR to the relevant one. |
 | [GitHub Trending](https://github.com/trending) | Trending repositories on GitHub. | | Not a submission site — earned via stars. |
+| [Ditchly](https://ditchly.co) | Free and open-source alternatives to paid apps, with scores and switch guides. | Freemium | Makers can send a tool at https://ditchly.co/submit. Fast-track is paid review, not a better rank. |
 
 ## Marketplaces & App Stores
 
