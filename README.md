@@ -180,6 +180,7 @@ If you're building with AI, these directories have huge search traffic.
 | [Altern](https://altern.ai) | AI tools and agents directory. | Freemium | Free plan; featured plan $29. DR 55, dofollow (per SubmitSaaS, Oct 2026); SubmitSaaS lists pricing as Paid — conflicts with the site's own page. |
 | [Tool Directory](https://www.tooldirectory.ai) | AI tools directory with comparisons. | Paid | Every listing carries a fee. DR 50, dofollow (per SubmitSaaS, Oct 2026). |
 | [AIHuntList](https://aihuntlist.com) | AI products directory and tools list. | Freemium | Free listing with editorial review. DR 57, dofollow (per SubmitSaaS, Oct 2026). |
+| [AIWget](https://aiwget.com) | Curated B2B AI software directory with hands-on API/MCP benchmarks and free DR checker. | Paid | $19.90 one-time permanent Standard Listing ($79 Featured Spotlight); permanent dofollow backlink. DR 32 (Nov 2026). |
 | [AI Agents Directory](https://aiagentsdirectory.com) | Directory and landscape map of AI agents. | Conditional free* | Agents only. DR 75, dofollow (per SubmitSaaS, Oct 2026). |
 | [AI Agents List](https://aiagentslist.com) | Curated list of AI agents. | Paid | $29 or $49 one-time, refund if not approved. |
 | [GPTs Hunter](https://www.gptshunter.com) | Directory of custom GPTs from the GPT Store. | Free | For custom GPTs. DR 53, nofollow (per SubmitSaaS, Oct 2026). |
