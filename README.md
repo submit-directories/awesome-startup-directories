@@ -299,6 +299,7 @@ Startup databases and news outlets by region — pitch a story or add a company 
 | [V2EX](https://www.v2ex.com) | Chinese developer and maker community ("分享创造" board for projects). | Free | China |
 | [Juejin](https://juejin.cn) | Chinese developer community. | Free | China |
 | [Qiita](https://qiita.com) | Japanese developer knowledge-sharing community. | Free | Japan |
+| [Push my project](https://pushmyproject.com) | Free bilingual directory (English/German) for SaaS, apps and side projects. | Free | Germany/DACH. Site states each listing gets a product page and a dofollow backlink. |
 
 ## Web Directories & Search Engines
 
