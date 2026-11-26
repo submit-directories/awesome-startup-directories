@@ -209,6 +209,7 @@ If you're building with AI, these directories have huge search traffic.
 | [Public Prompts](https://www.publicprompts.art/) | Curated AI-tools directory with category and pricing filters. | Paid | US$19.99 once plus tax before editorial review; refunded if declined. Browsing is free. |
 | [Add AI Directory](https://www.addaidirectory.com) | A curated directory of AI agents organized by category, with editorial reviews and free submissions. | Free | | 
 | [AIWget](https://aiwget.com) | Curated B2B AI software directory with hands-on API/MCP benchmarks and free DR checker. | Paid | $19.90 one-time permanent Standard Listing ($79 Featured Spotlight); permanent dofollow backlink. DR 32 (Nov 2026). |
+| [ToolWorthy](https://www.toolworthy.ai/) | AI tools directory with editorial listings, category rankings, and guides. | Paid | Vendor submission is one-time paid only: Fast Listing $49 or Verified Listing $99. No free vendor-submission plan is shown on the submit page (checked 2026-11-26). Browsing is public. |
 
 
 ## Communities & Forums
