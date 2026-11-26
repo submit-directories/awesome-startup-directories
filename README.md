@@ -6,7 +6,7 @@
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](LICENSE)
-[![Directories](https://img.shields.io/badge/directories-203-orange.svg)](#contents)
+[![Directories](https://img.shields.io/badge/directories-204-orange.svg)](#contents)
 [![Last verified](https://img.shields.io/badge/links%20verified-Oct%202026-blue.svg)](#how-this-list-is-maintained)
 
 </div>
@@ -180,7 +180,6 @@ If you're building with AI, these directories have huge search traffic.
 | [Altern](https://altern.ai) | AI tools and agents directory. | Freemium | Free plan; featured plan $29. DR 55, dofollow (per SubmitSaaS, Oct 2026); SubmitSaaS lists pricing as Paid — conflicts with the site's own page. |
 | [Tool Directory](https://www.tooldirectory.ai) | AI tools directory with comparisons. | Paid | Every listing carries a fee. DR 50, dofollow (per SubmitSaaS, Oct 2026). |
 | [AIHuntList](https://aihuntlist.com) | AI products directory and tools list. | Freemium | Free listing with editorial review. DR 57, dofollow (per SubmitSaaS, Oct 2026). |
-| [AIWget](https://aiwget.com) | Curated B2B AI software directory with hands-on API/MCP benchmarks and free DR checker. | Paid | $19.90 one-time permanent Standard Listing ($79 Featured Spotlight); permanent dofollow backlink. DR 32 (Nov 2026). |
 | [AI Agents Directory](https://aiagentsdirectory.com) | Directory and landscape map of AI agents. | Conditional free* | Agents only. DR 75, dofollow (per SubmitSaaS, Oct 2026). |
 | [AI Agents List](https://aiagentslist.com) | Curated list of AI agents. | Paid | $29 or $49 one-time, refund if not approved. |
 | [GPTs Hunter](https://www.gptshunter.com) | Directory of custom GPTs from the GPT Store. | Free | For custom GPTs. DR 53, nofollow (per SubmitSaaS, Oct 2026). |
@@ -209,6 +208,7 @@ If you're building with AI, these directories have huge search traffic.
 | [NovaTools](https://novatools.ai) | AI tool directory covering AI, creative and utility software by category. | Paid | DR 48 (per SubmitSaaS, Nov 2026), dofollow. Free submissions currently closed; paid listing $19.9 one-time, reviewed in 24-48 hours. |
 | [Public Prompts](https://www.publicprompts.art/) | Curated AI-tools directory with category and pricing filters. | Paid | US$19.99 once plus tax before editorial review; refunded if declined. Browsing is free. |
 | [Add AI Directory](https://www.addaidirectory.com) | A curated directory of AI agents organized by category, with editorial reviews and free submissions. | Free | | 
+| [AIWget](https://aiwget.com) | Curated B2B AI software directory with hands-on API/MCP benchmarks and free DR checker. | Paid | $19.90 one-time permanent Standard Listing ($79 Featured Spotlight); permanent dofollow backlink. DR 32 (Nov 2026). |
 
 
 ## Communities & Forums
