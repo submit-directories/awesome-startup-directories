@@ -161,6 +161,7 @@ B2B software marketplaces and review sites — great for buyer-intent traffic an
 | [MicroSaaS Directory](https://microsaas.directory) | Directory of independent micro-SaaS products. | Free* | DR 30, dofollow (per SubmitSaaS, Oct 2026). |
 | [DeepLaunch.io](https://deeplaunch.io) | Directory for discovering AI tools, SaaS products, and online resources. | Freemium | Free listing requires a reciprocal badge; paid plans offer priority or featured placement. |
 | [SuperLaunch List](https://superlaunchlist.com) | Curated directory for discovering and submitting AI tools and SaaS products. | Freemium | Free listings require a badge and review; paid plans offer instant publication without badge verification. |
+| [AI Agency Search](https://aiagencysearch.com) | Directory of AI agencies; agencies add their own listing through a sign-up form. | Freemium | Free listing, paid tiers for placement. |
 
 ## AI Tool Directories
 
