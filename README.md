@@ -127,6 +127,7 @@ Evergreen directories and databases where your startup gets a permanent profile.
 | [Ramen.Tools](https://ramen.tools) | See which tools 6,000+ indie makers use; list your product. | Free* | DR 47, dofollow (per SubmitSaaS, Oct 2026). |
 | [AppRater](https://apprater.net) | Human-reviewed app discovery for iOS, Android, desktop, and web. | Free* | DR 40, dofollow (per SubmitSaaS, Oct 2026). |
 | [Makerlist.io](https://makerlist.io) | Directory of new products, tools, and startups. | Free* | DR 32, dofollow (per SubmitSaaS, Oct 2026). |
+| [Makerora](https://themakerora.com) | Community-driven directory for discovering and launching startups. | Freemium | Free listing requires a verification badge. |
 | [SitePatent](https://sitepatent.com) | Directory of startups, tools, and online products by category and tech stack. | Freemium | DR 52 (Ahrefs, Nov 2026). Free listing needs a homepage badge and waits 7+ days; paid plans are one-time from $19. |
 
 ## SaaS & Software Directories
